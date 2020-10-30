@@ -1,0 +1,50 @@
+CountChromosome :  40   SumFitness : 87287964
+  value  : ( 9923318066 , 4116031722 )    MAX_CountChromosome_fitness : 2.2012e+06
+66  41  0.0934  0.0611
+80  16  -0.0022  0.0012
+31  3  0.0099  0.0033
+23  17  -0.0013  0.0001
+99  22  0.0136  0.0059
+Chromosome No.0  value  : ( 9923318066 , 2817041833 )    fitness 2.16518e+06
+Chromosome No.1  value  : ( 9923318166 , 3121031429 )    fitness 2.16937e+06
+Chromosome No.2  value  : ( 9923318066 , 3121031429 )    fitness 2.16937e+06
+Chromosome No.3  value  : ( 9923318066 , 3121031429 )    fitness 2.16937e+06
+Chromosome No.4  value  : ( 9923318066 , 3121031429 )    fitness 2.16937e+06
+Chromosome No.5  value  : ( 9973318166 , 3318041728 )    fitness 2.17876e+06
+Chromosome No.6  value  : ( 9973318066 , 3318041329 )    fitness 2.17891e+06
+Chromosome No.7  value  : ( 9923318166 , 3318041728 )    fitness 2.18374e+06
+Chromosome No.8  value  : ( 9923318166 , 3318041728 )    fitness 2.18374e+06
+Chromosome No.9  value  : ( 9923318066 , 3318041728 )    fitness 2.18375e+06
+Chromosome No.10  value  : ( 9923318066 , 3318041728 )    fitness 2.18375e+06
+Chromosome No.11  value  : ( 9923318066 , 3318041728 )    fitness 2.18375e+06
+Chromosome No.12  value  : ( 9923318066 , 3318041728 )    fitness 2.18375e+06
+Chromosome No.13  value  : ( 9923318066 , 3318041728 )    fitness 2.18375e+06
+Chromosome No.14  value  : ( 9923318066 , 3318041728 )    fitness 2.18375e+06
+Chromosome No.15  value  : ( 9923318066 , 3318041728 )    fitness 2.18375e+06
+Chromosome No.16  value  : ( 9923318066 , 3318041728 )    fitness 2.18375e+06
+Chromosome No.17  value  : ( 9923318066 , 3318041728 )    fitness 2.18375e+06
+Chromosome No.18  value  : ( 9923318066 , 3318041728 )    fitness 2.18375e+06
+Chromosome No.19  value  : ( 9923318066 , 3318041728 )    fitness 2.18375e+06
+Chromosome No.20  value  : ( 9923318066 , 3318041728 )    fitness 2.18375e+06
+Chromosome No.21  value  : ( 9923318066 , 3318041728 )    fitness 2.18375e+06
+Chromosome No.22  value  : ( 9923318066 , 3318041728 )    fitness 2.18375e+06
+Chromosome No.23  value  : ( 9923318066 , 3318041728 )    fitness 2.18375e+06
+Chromosome No.24  value  : ( 9923318066 , 3318041728 )    fitness 2.18375e+06
+Chromosome No.25  value  : ( 9923318066 , 3318041728 )    fitness 2.18375e+06
+Chromosome No.26  value  : ( 9923318066 , 3318041728 )    fitness 2.18375e+06
+Chromosome No.27  value  : ( 9923318066 , 3318041728 )    fitness 2.18375e+06
+Chromosome No.28  value  : ( 9923318066 , 3318041728 )    fitness 2.18375e+06
+Chromosome No.29  value  : ( 9923318066 , 3318041728 )    fitness 2.18375e+06
+Chromosome No.30  value  : ( 9923318066 , 3318041728 )    fitness 2.18375e+06
+Chromosome No.31  value  : ( 9923318066 , 3318041728 )    fitness 2.18375e+06
+Chromosome No.32  value  : ( 9923318066 , 3318041728 )    fitness 2.18375e+06
+Chromosome No.33  value  : ( 9923318066 , 3318041728 )    fitness 2.18375e+06
+Chromosome No.34  value  : ( 9923318066 , 3318041728 )    fitness 2.18375e+06
+Chromosome No.35  value  : ( 9923318066 , 3318041728 )    fitness 2.18375e+06
+Chromosome No.36  value  : ( 9923318066 , 3318041728 )    fitness 2.18375e+06
+Chromosome No.37  value  : ( 9923318066 , 3318041329 )    fitness 2.18378e+06
+Chromosome No.38  value  : ( 9923318169 , 3719052016 )    fitness 2.19018e+06
+Chromosome No.39  value  : ( 9923318066 , 4116031722 )    fitness 2.2012e+06
+
+
+Running time is: 0ms
